@@ -1,0 +1,7 @@
+target/
+build/
+dist/
+nbproject/private/
+*.class
+*.war
+.DS_Store
